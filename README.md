@@ -1,6 +1,6 @@
 English | [简体中文](README_zh.md)
 
-# chatglm3.openvino Demo
+# glm.openvino Demo
 
 Here is an example of how to deploy ChatGLM3 using OpenVINO
 
